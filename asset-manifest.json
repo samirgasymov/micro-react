@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/micro-react/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/micro-react/static/js/main.14bce090.chunk.js",
+    "main.js.map": "/micro-react/static/js/main.14bce090.chunk.js.map",
+    "runtime-main.js": "/micro-react/static/js/runtime-main.6e938efe.js",
+    "runtime-main.js.map": "/micro-react/static/js/runtime-main.6e938efe.js.map",
+    "static/js/2.fd585d8c.chunk.js": "/micro-react/static/js/2.fd585d8c.chunk.js",
+    "static/js/2.fd585d8c.chunk.js.map": "/micro-react/static/js/2.fd585d8c.chunk.js.map",
+    "static/js/3.03778ed9.chunk.js": "/micro-react/static/js/3.03778ed9.chunk.js",
+    "static/js/3.03778ed9.chunk.js.map": "/micro-react/static/js/3.03778ed9.chunk.js.map",
+    "index.html": "/micro-react/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/micro-react/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.fd585d8c.chunk.js.LICENSE.txt": "/micro-react/static/js/2.fd585d8c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/micro-react/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e938efe.js",
+    "static/js/2.fd585d8c.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.14bce090.chunk.js"
+  ]
+}
